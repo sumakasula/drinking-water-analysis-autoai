@@ -65,3 +65,11 @@ These metrics indicate strong predictive performance and reliable generalization
 This project demonstrates an end-to-end machine learning workflow using IBM Watson AutoAI to address a real-world public health and sustainability problem. It showcases the application of AI in social impact domains and highlights the role of data analytics in achieving SDG goals.
 
 
+## Project Screenshots
+### IBM Watson AutoAI Pipeline
+![AutoAI Pipeline](https://github.com/sumakasula/drinking-water-analysis-autoai/blob/main/Screenshot%202025-07-26%20184137.png)
+
+### Model Performance & Evaluation
+![Model Metrics](https://github.com/sumakasula/drinking-water-analysis-autoai/blob/main/Screenshot%202025-07-26%20183406.png)
+
+
