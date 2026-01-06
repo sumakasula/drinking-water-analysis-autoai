@@ -1,4 +1,4 @@
-## Improved Source of Drinking Water Analysis using IBM Watson AutoAI
+# Improved Source of Drinking Water Analysis using IBM Watson AutoAI
 
 ## Project Overview
 Access to safe and improved drinking water remains a critical challenge in India, particularly in rural and underdeveloped regions. Despite initiatives aligned with the Sustainable Development Goals (SDGs), disparities continue to exist across states and socio-economic groups.
